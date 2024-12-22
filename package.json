@@ -1,0 +1,19 @@
+{
+  "name": "shorturl-backend-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alegmal/shorturl-backend-nodejs.git"
+  },
+  "author": "Aleg Malinovsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alegmal/shorturl-backend-nodejs/issues"
+  },
+  "homepage": "https://github.com/alegmal/shorturl-backend-nodejs#readme",
+  "description": ""
+}
